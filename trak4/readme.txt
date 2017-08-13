@@ -35,3 +35,11 @@ The .psd source files for this set are available from my website and are under t
 
 
 Enjoy :)
+
+
+------------------
+
+The specular maps from this set have been modified by Molexted and are a derivative of the original ones included; 
+they are likewise licensed under the same license as the original, which is CC-BY 3.0.
+
+------------------

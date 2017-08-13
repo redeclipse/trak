@@ -65,3 +65,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+------------------
+
+Specular maps from this set have been created by Molexted and are a derivative of the TRaK 5 textures, 
+or are a derivative from the original specular maps included in the TRaK 5 texture set;
+they are likewise licensed under the same MIT license as the original.
+
+------------------
